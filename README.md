@@ -1,0 +1,2 @@
+# StockSim
+A stock simulator
