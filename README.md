@@ -1,6 +1,6 @@
 # Stock Market Simulator
 
-A C++ based stock market simulator that allows users to simulate and monitor stock prices in a virtual environment. This project provides a hands-on way to understand stock market mechanics through a command-line interface.
+StockSim is a terminal-based stock market simulator built entirely in modern C++. The project simulates a dynamic stock exchange environment where users can buy and sell stocks, track portfolio performance, and observe price fluctuations over time. 
 
 ## Features
 
